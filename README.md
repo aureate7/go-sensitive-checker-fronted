@@ -9,7 +9,7 @@ This template should help get you started developing with Vue 3 in Vite.
 ## repositories
 frontend: https://github.com/aureate7/sensitive-word-checker
 
-backend: https://github.com/aureate7/go-sensitive-checker
+backend: https://github.com/aureate7/go-sensitive-checker-backend
 
 ## How to employ
 Run the command `NODE_ENV=production npm run build` in the **root directory** of the project. This will generate a new folder, **named** `dist`, also in the root. Finally, **upload** the `dist` folder to your server and **configure it** to serve the static page.
